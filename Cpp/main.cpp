@@ -11,12 +11,14 @@ int main() {
     fillArray(array, size);
 
     //Analizar tiempo y memoria usados buscando un int
-    auto start = high_resolution_clock::now();
+    clock_t time;
+    time = clock();
     bool found = isInArray(array, size);
-    auto end = high_resolution_clock::now();
-    auto duration = duration_cast<milliseconds>(end - start);
-    cout << "El proceso se ejecuto en: " << duration.count() << " milisegundos." << endl;
+    time = clock() - time;
 
-    //Resultado de la busqueda
+     double time_taken = double(time) / double(CLOCKS_PER_SEC); 
+
+     printf("linearSearch() took %f seconds to execute \n", time_taken); 
+
     return 0;
 }

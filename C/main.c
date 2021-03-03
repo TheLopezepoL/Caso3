@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdbool.h> 
 
- int array[4000000];
+ int array[5000000];
 
  bool linearSearch(int arr[], int size, int num){
      for(int i = 0; i<size; i++){
