@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="H:/Programming/Varios/Caso3/Cpp/arrayManager.h">
+			<Option target="Cpp"/>
+		</Unit>
 		<Unit filename="H:/Programming/Varios/Caso3/Cpp/main.cpp">
 			<Option target="Cpp"/>
 		</Unit>

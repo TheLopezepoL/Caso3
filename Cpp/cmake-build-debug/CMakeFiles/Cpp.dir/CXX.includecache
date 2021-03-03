@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Programming/Varios/Caso3/Cpp/arrayManager.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+iostream
+-
+
+H:/Programming/Varios/Caso3/Cpp/main.cpp
+arrayManager.h
+H:/Programming/Varios/Caso3/Cpp/arrayManager.h
+chrono
+-
+
