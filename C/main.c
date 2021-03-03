@@ -1,15 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdbool.h> 
 
- int array[2000000];
+ int array[4000000];
 
- int linearSearch(int arr[], int size, int num){
+ bool linearSearch(int arr[], int size, int num){
      for(int i = 0; i<size; i++){
          if(arr[i] == num)
-            return arr[i];
+            return 1;
      }
-     return -1;
+     return 0;
  }
 
  int main(){
