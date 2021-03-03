@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdbool.h> 
 
- int array[5000000];
+ int array[10000000];
 
  bool linearSearch(int arr[], int size, int num){
      for(int i = 0; i<size; i++){
@@ -17,11 +17,11 @@
 
      int size = sizeof(array) / sizeof(array[0]);
 
-     clock_t time;
-
+     srand((unsigned)time(NULL));
      for(int i = 0; i < size; i++){
          array[i] = rand() % 10;
      }
+     clock_t time;
 
      time = clock();
      linearSearch(array, size, 15);
