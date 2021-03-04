@@ -10,3 +10,9 @@
   2. Medir el uso de memoria con 10 pruebas en los algoritmos que usan C++ y C
   3. Medir el tiempo que tardo la computadora en los cuatro algoritmos.
   4. Tabular la informacion y guardar las screenshots.
+
+### Capturas
+ - [Carpeta con las capturas de pantalla de cada lenguaje](./Capturas)
+
+### Tabulacion
+  - [Archivo Excel](./Tiempos&memoria.xlsx)
