@@ -2,8 +2,8 @@
 ## Medir tiempo de algoritmos en diferentes lenguajes
 
 ### Especificaciones:
--Cpu Intel Core i7-8700 @3.20GHz
--8GBx2 RAM DDR4 3200
+  -Cpu Intel Core i7-8700 @3.20GHz
+  -8GBx2 RAM DDR4 3200
 
 Pasos:
 -  1.Programar un algoritmo que buscaa un x en un array de N terminos en los 4 lenguajes.
