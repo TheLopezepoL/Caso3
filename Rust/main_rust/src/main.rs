@@ -13,7 +13,7 @@ use rand::{thread_rng, Rng};
 use std::time::{Duration, Instant};
 
 fn main() {
-    let mut _array = vec![0; 10000000];
+    let mut _array = vec![0; 20000000];
     let mut rng = rand::thread_rng();
 
     for i in 0.._array.len(){

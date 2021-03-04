@@ -8,13 +8,13 @@ using namespace std::chrono;
 
 int main() {
     // Creacion del Array
-    static int array[10000000];
+    static int array[2000000];
     int size = sizeof(array) / sizeof(*array);
     fillArray(array, size);
 
     //Analizar tiempo y memoria usados buscando un int
     clock_t time = clock();
-    bool found = isInArray(array, size);
+    isInArray(array, size);
     time = clock() - time;
 
     PROCESS_MEMORY_COUNTERS_EX pmc;
@@ -25,12 +25,6 @@ int main() {
 
      printf("linearSearch() took %f seconds to execute. \n", time_taken);
      printf("linearSearch() took %lu bits to execute. \n", memory_taken);
-
-     //Resultado del proceso
-     if (found)
-         printf("Se encontro el numero.\n");
-     else
-         printf("No se encontro el numero.\n");
 
     return 0;
 }

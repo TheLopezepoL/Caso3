@@ -1,1 +1,1 @@
-/Users/danielbejarano/Desktop/Análisis\ de\ Algoritmos/Casos/Caso\ 3/Caso3/Rust/main_rust/target/debug/main_rust: /Users/danielbejarano/Desktop/Análisis\ de\ Algoritmos/Casos/Caso\ 3/Caso3/Rust/main_rust/src/main.rs
+H:\Programming\Varios\Caso3\Rust\main_rust\target\debug\main_rust.exe: H:\Programming\Varios\Caso3\Rust\main_rust\src\main.rs
