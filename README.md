@@ -1,5 +1,5 @@
 # Caso3
-Caso 3, Medir tiempo de algoritmos en diferentes lenguajes
+## Caso 3, Medir tiempo de algoritmos en diferentes lenguajes
 
 Especificaciones:
 Cpu Intel Core i7-8700 @3.20GHz
