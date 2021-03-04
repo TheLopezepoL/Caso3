@@ -13,22 +13,15 @@ int main() {
     fillArray(array, size);
 
     //Analizar tiempo y memoria usados buscando un int
-    PROCESS_MEMORY_COUNTERS_EX pmc;
-    GetProcessMemoryInfo(GetCurrentProcess(), (PROCESS_MEMORY_COUNTERS*)&pmc, sizeof(pmc));
-    SIZE_T physMemUsedByMe = pmc.WorkingSetSize;
-    cout << physMemUsedByMe << endl;
-
     clock_t time = clock();
     bool found = isInArray(array, size);
     time = clock() - time;
 
-    PROCESS_MEMORY_COUNTERS_EX pmcTwo;
-    GetProcessMemoryInfo(GetCurrentProcess(), (PROCESS_MEMORY_COUNTERS*)&pmcTwo, sizeof(pmcTwo));
-    SIZE_T physMemUsedByMeTwo = pmc.WorkingSetSize;
-    cout << physMemUsedByMeTwo << endl;
+    PROCESS_MEMORY_COUNTERS_EX pmc;
+    GetProcessMemoryInfo(GetCurrentProcess(), (PROCESS_MEMORY_COUNTERS*)&pmc, sizeof(pmc));
+    SIZE_T memory_taken = pmc.WorkingSetSize;
 
      double time_taken = double(time) / double(CLOCKS_PER_SEC);
-     auto memory_taken = physMemUsedByMeTwo - physMemUsedByMeTwo;
 
      printf("linearSearch() took %f seconds to execute. \n", time_taken);
      printf("linearSearch() took %lu bits to execute. \n", memory_taken);
