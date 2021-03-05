@@ -12,6 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04ea5bbe-5f8c-4a97-9d4a-865d4d1ceb85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../C/.idea/C.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../C/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
@@ -22,64 +24,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Cpp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Cpp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/bin-main_rust" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/bin-main_rust" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/bin-main_rust.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/bin-main_rust.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/dep-bin-main_rust" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/dep-bin-main_rust" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/output-bin-main_rust" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/debug/.fingerprint/main_rust-d1ab7190dd345363/output-bin-main_rust" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/deps/main_rust.d" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/debug/deps/main_rust.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/13v98qaakyfg92k6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1gm8z2a8zv5ht1i1.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1gz7mg5t5013wadc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1iee7vz5ijbtb98w.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1jdbk3bh32ry08f9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1qbi5imvmdm8lor1.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1r15lor68ornyr5p.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1shti1c6zf4crb6s.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/1yje55653g1q41xj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/216pryw4uzcwyyms.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/28qqktk0xouhcju5.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2czehth4f4vz9e4w.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2idzgsas8j63u3rd.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2iqiedl6ck2911vl.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2n184slxeaocxkip.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2omayixpv4incjcx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2sk37vgp3nzqtpzs.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/2van8f453tf8089s.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/34l8ysc2ai4tk2gh.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/3ev0w9q40aihndzh.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/3mxjl73bhvze3juk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/3tuf492hxvh3635b.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/42fncnifjblt83ze.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/466qmvgshw7wny90.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/4f96f7qckfyvvcf2.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/4gvvj02q4kehql78.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/4penizce6nb27zv3.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/4sbym51klpo971hi.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/5acr4p9m9t0df8au.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/5c18mkjqqmpbmtip.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/5cu23dgndnloo5un.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/6k3llqsclxtianz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/8598mfehr8mmd79.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/b7uzpk3mmck9ovm.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/k8lwqiq2y7x1t06.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/m1e7l6xr6kkn6im.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/q5tgc0gl017o75x.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/wkrxfey870autoc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4-f7p2oe4j0auc/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/incremental/main_rust-1pxae5lthg7al/s-fweno9sx1b-dunyu4.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rust/main_rust/target/debug/main_rust.d" beforeDir="false" afterPath="$PROJECT_DIR$/../Rust/main_rust/target/debug/main_rust.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempos&amp;Memoria.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiempos&amp;Memoria.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,10 +48,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
@@ -118,9 +66,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -135,7 +83,9 @@
       <workItem from="1614791612630" duration="3265000" />
       <workItem from="1614873500127" duration="1925000" />
       <workItem from="1614875549740" duration="198000" />
-      <workItem from="1614882619665" duration="3037000" />
+      <workItem from="1614882619665" duration="3921000" />
+      <workItem from="1614889102293" duration="34000" />
+      <workItem from="1614901567902" duration="1243000" />
     </task>
     <servers />
   </component>

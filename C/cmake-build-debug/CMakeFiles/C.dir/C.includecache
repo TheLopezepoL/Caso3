@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Programming/Varios/Caso3/C/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+stdbool.h
+-
+windows.h
+H:/Programming/Varios/Caso3/C/windows.h
+psapi.h
+H:/Programming/Varios/Caso3/C/psapi.h
+

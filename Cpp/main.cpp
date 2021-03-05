@@ -8,7 +8,7 @@ using namespace std::chrono;
 
 int main() {
     // Creacion del Array
-    static int array[2000000];
+    static int array[20000000];
     int size = sizeof(array) / sizeof(*array);
     fillArray(array, size);
 
@@ -23,8 +23,9 @@ int main() {
 
      double time_taken = double(time) / double(CLOCKS_PER_SEC);
 
-     printf("linearSearch() took %f seconds to execute. \n", time_taken);
-     printf("linearSearch() took %lu bits to execute. \n", memory_taken);
+     printf("isInArray() took %f seconds to execute. \n", time_taken);
+     printf("isInArray() took %lu bits to execute. \n", memory_taken);
+
 
     return 0;
 }
