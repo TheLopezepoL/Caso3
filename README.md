@@ -15,7 +15,7 @@
  - [Carpeta con las capturas de pantalla de cada lenguaje](./Capturas)
 
 ### Tabulacion
-  - [Archivo Excel](./Tiempos&Memoria.xlsx)
+  - [Archivo Excel](./Tiempos&MemoriaFINAL.xlsx)
 
 ### Conclusiones
 - Tomando en cuenta los resultados de nuestras pruebas, la afirmación A es falsa ya que no existe una diferencia del todo significativa entre el rendimiento en tiempo y memoria de u compilador exclusivo de C comparado con uno de C++. Nosotros utilizamos Tiny C Compiler y Microsoft Visual C++ compiiler para C++.
