@@ -16,3 +16,7 @@
 
 ### Tabulacion
   - [Archivo Excel](./Tiempos&Memoria.xlsx)
+
+### Conclusiones
+- Tomando en cuenta los resultados de nuestras pruebas, la afirmación A es falsa ya que no existe una diferencia del todo significativa entre el rendimiento en tiempo y memoria de u compilador exclusivo de C comparado con uno de C++. Nosotros utilizamos Tiny C Compiler y Microsoft Visual C++ compiiler para C++.
+- Por otro lado la afirmación B resultó ser verdadera ya que a través de las pruebas que realizamos, las diferencias en el rendimiento de tiempo del algoritmo de busqueda secuencial compilado en C++ siempre fue mucho más rápido que los de Go y Rust.
